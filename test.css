@@ -1,0 +1,19 @@
+.greenid-so h1, 
+.greenid-so #greenid-container h1,
+.greenid-so-dropcap,
+.greenid-so #greenid-container h2,
+#greenid-container a,
+.greenid-so #greenid-container h4 {
+	color: #3868aa;
+}
+
+.greenid-so .btn-primary, 
+.greenid-so #greenid-container .btn-primary {
+	background-color: #3868aa;
+}
+
+.greenid-so #greenid-container .greenid-modal .btn-default, 
+.greenid-so #greenid-container #greenid-source-content #greenid-source-cancel.btn-default {
+	color: #3868aa;
+	border-color: #3868aa;
+}
